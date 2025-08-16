@@ -1,6 +1,6 @@
 # Help Center - MyShop
 
-This is a simple Help Center page for the MyShop website.
+This is a simple Help Center page for Shop(JYMSH) website.
 
 ## Features
 
